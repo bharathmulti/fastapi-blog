@@ -1,4 +1,4 @@
-\# 🚀 FastAPI Blog API
+<img width="378" height="186" alt="image" src="https://github.com/user-attachments/assets/5fd4704c-a0f0-4e83-bb16-ab65e9e856c6" />\# 🚀 FastAPI Blog API
 
 
 
@@ -111,62 +111,34 @@ fastapi\\\_learning/
 \\# Clone the repository
 
 git clone https://github.com/your-username/your-repo.git
-
-
-
 \\# Navigate into project
 
 cd your-repo
-
-
-
 \\# Create virtual environment
 
 python -m venv venv
-
-
-
 \\# Activate environment
 
 venv\\\\Scripts\\\\activate   # Windows
-
-
-
 \\# Install dependencies
 
 pip install -r requirements.txt
-
-
-
 \\# Run the server
 
 uvicorn main:app --reload
 
 ```
-
-
-
 \---
-
-
 
 \## 📌 API Endpoints
 
-
-
 \### 👤 User
-
-
 
 \* `POST /user` → Create User
 
 \* `GET /user/{id}` → Get User
 
-
-
 \### 📝 Blog
-
-
 
 \* `GET /blog` → Get all blogs
 
@@ -175,30 +147,13 @@ uvicorn main:app --reload
 \* `GET /blog/{id}` → Get single blog
 
 \* `DELETE /blog/{id}` → Delete blog
-
-
-
 \---
-
-
-
 \## 🔐 Authentication
-
-
-
 \* Uses JWT tokens
 
 \* Secure password hashing with Bcrypt
-
-
-
 \---
-
-
-
 \## 🚀 Future Improvements
-
-
 
 \* 🔹 Add PostgreSQL support
 
@@ -208,29 +163,11 @@ uvicorn main:app --reload
 
 \* 🔹 Add unit testing
 
-
-
-\---
-
-
-
 \## 👨‍💻 Author
+\*\ T. Bharath Reddy \*\*
+\* GitHub: https://github.com/bharathmulti
 
-
-
-\*\*Your Name\*\*
-
-
-
-\* GitHub: https://github.com/your-username
-
-\* LinkedIn: https://linkedin.com/in/your-profile
-
-
-
-\---
-
-
+\* LinkedIn: https://www.linkedin.com/in/tammaneni-bharath-reddy-837a04359/
 
 ⭐ If you like this project, give it a star!
 
